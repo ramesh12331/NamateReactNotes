@@ -160,11 +160,20 @@ Both load scripts **without blocking HTML parsing**.
 <script src="file.js" defer></script>
 
 
-✅ **Quick Recap**:  
-- **Emmet** = shortcuts for faster HTML.  
-- **Library vs Framework** = control difference.  
-- **CDN** = faster, cached delivery.  
-- **React** = UI logic, **ReactDOM** = rendering.  
-- **crossorigin** = error handling for external scripts.  
-- **Dev vs Prod builds** = debug vs optimized.  
-- **async vs defer** = script loading strategies.
+📖 Summary
+
+Emmet → Shortcuts for HTML/CSS.
+
+Library vs Framework → Library = freedom, Framework = structure.
+
+CDN → Delivers assets fast worldwide.
+
+React → Named for its reactive UI updates.
+
+crossorigin → Manages CORS for external scripts.
+
+React vs ReactDOM → React = UI, ReactDOM = DOM rendering.
+
+Development vs Production builds → Debugging vs Optimized.
+
+async vs defer → Script loading strategies.
